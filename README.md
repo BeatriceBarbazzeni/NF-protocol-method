@@ -3,6 +3,8 @@ Python codes of the NF-training method proposed for the NF-training protocol in 
 
 The proposed NF-training method is part of the research conducted in my doctoral thesis work: "Cognitive Training Based on EEG Neurofeedback to Improve Working Memory: A Research Study on Healthy Volunteers with an Outlook on Preclinical Alzheimer’s Disease", Faculty of Natural Science at the Otto-von-Guericke University of Magdeburg. 
 
+Author: Beatrice Barbazzeni
+
 Supervisors: Prof. Dr. med. Emrah Duezel
              Prof. Dr. Oliver Speck
 
